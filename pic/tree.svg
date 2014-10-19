@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-7"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-4"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-5"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-3"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-6"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-6"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-3"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-1"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-2"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-9"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-6"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-9"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-31"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-2-0"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-5-8"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-79"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-8"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-76"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-82"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path3864-67"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       width="197.42207"
+       height="60.739689"
+       x="79.00325"
+       y="50.794003"
+       id="rect2985"
+       style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       x="177.66164"
+       y="73.790749"
+       id="text3755"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="177.66164"
+         y="73.790749"
+         id="tspan3757">NanodeRF</tspan><tspan
+         x="177.66164"
+         y="86.290749"
+         id="tspan3759">[NanodeRF_multinode.ino]</tspan></text>
+    <rect
+       width="197.42207"
+       height="60.739689"
+       x="199.05595"
+       y="123.89494"
+       id="rect2985-7"
+       style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       x="297.71432"
+       y="146.89169"
+       id="text3755-0"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="297.71432"
+         y="146.89169"
+         id="tspan3757-3">OKG Base</tspan><tspan
+         x="297.71432"
+         y="159.39169"
+         id="tspan3759-4">[OKG_Wiz5200_RFM12B_emoncms</tspan><tspan
+         x="297.71432"
+         y="171.89169"
+         id="tspan3792">_multinode.ino]</tspan></text>
+    <g
+       transform="translate(-160.84227,-6.1327046)"
+       id="g3848">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       d="m 169.07898,111.53369 -2.07773,113.88157"
+       id="path3816"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
+    <text
+       x="167.96483"
+       y="247.10399"
+       id="text3755-5"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="167.96483"
+         y="247.10399"
+         id="tspan3757-9">Raspberry Pi</tspan><tspan
+         x="167.96483"
+         y="259.604"
+         id="tspan3759-8">[?]</tspan></text>
+    <g
+       transform="translate(-159.0998,103.36278)"
+       id="g3848-3">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2-3"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       x="171.13588"
+       y="355.1709"
+       id="text3755-5-5"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="171.13588"
+         y="355.1709"
+         id="tspan3757-9-5">Raspberry Pi</tspan><tspan
+         x="171.13588"
+         y="367.6709"
+         id="tspan3759-8-4">[&quot;RFM2Pi Gateway&quot;]</tspan></text>
+    <path
+       d="m 183.59797,287.16511 0.77588,48.75579"
+       id="path4348"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       x="550"
+       y="93.790749"
+       id="text4561"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="550"
+         y="93.790749"
+         id="tspan4563">emoncms.org</tspan></text>
+    <rect
+       width="194.87231"
+       height="451.4003"
+       x="491.84955"
+       y="53.267216"
+       id="rect2985-76"
+       style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 277.14286,79.505039 212.85714,0"
+       id="path4583"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-2)" />
+    <text
+       x="317.14288"
+       y="71.647896"
+       id="text4771"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="317.14288"
+         y="71.647896"
+         id="tspan4773">Ethernet</tspan></text>
+    <path
+       d="m 396.05358,160.39315 94.28571,0"
+       id="path4583-9"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend-2);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       x="420.33932"
+       y="152.53601"
+       id="text4771-5"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="420.33932"
+         y="152.53601"
+         id="tspan4773-1">Ethernet</tspan></text>
+    <path
+       d="m 280.33929,255.21932 207.97968,-0.401"
+       id="path4583-4"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-2)" />
+    <path
+       d="M 287.48215,365.21932 484.69679,364.7219"
+       id="path4583-3"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-2)" />
+    <text
+       x="578.83881"
+       y="117.55653"
+       id="text4880"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="578.83881"
+         y="117.55653"
+         id="tspan4882">or</tspan></text>
+    <text
+       x="587.06329"
+       y="143.9269"
+       id="text4884"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="588.65509"
+         y="143.9269"
+         id="tspan4886">emonCMS on local </tspan><tspan
+         x="587.06329"
+         y="156.4269"
+         id="tspan4888">WAMP / MAMP /LAMP</tspan><tspan
+         x="587.06329"
+         y="168.9269"
+         id="tspan4890">server</tspan></text>
+    <g
+       transform="translate(-159.92377,214.48498)"
+       id="g3848-3-9">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2-3-2"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       x="175.70186"
+       y="469.99451"
+       id="text3755-5-5-6"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="175.70186"
+         y="469.99451"
+         id="tspan3757-9-5-2">Raspberry Pi</tspan><tspan
+         x="175.70186"
+         y="482.49451"
+         id="tspan3759-8-4-9">[&quot;Rock Solid Gateway&quot;]</tspan></text>
+    <path
+       d="m 189.22827,395.25386 0.77588,48.75579"
+       id="path4348-2"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       x="356.97586"
+       y="492.90482"
+       transform="matrix(0.99992954,-0.01187078,0.01187078,0.99992954,0,0)"
+       id="text4771-94-5"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="356.97586"
+         y="492.90482"
+         id="tspan4773-5-1">Ethernet</tspan></text>
+    <path
+       d="m 283.45739,473.96441 206.30602,-0.49742"
+       id="path4583-3-4"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 1;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-2)" />
+    <text
+       x="352.83545"
+       y="268.17123"
+       id="text4771-5-5"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="352.83545"
+         y="268.17123"
+         id="tspan4773-1-5">Ethernet</tspan></text>
+    <text
+       x="354.85574"
+       y="375.24741"
+       id="text4771-5-54"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="354.85574"
+         y="375.24741"
+         id="tspan4773-1-1">Ethernet</tspan></text>
+    <g
+       transform="translate(88.472449,416.88588)"
+       id="g3848-3-9-1">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2-3-2-3"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       x="424.09808"
+       y="672.39539"
+       id="text3755-5-5-6-8"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="424.09808"
+         y="672.39539"
+         id="tspan3757-9-5-2-1">Raspberry Pi</tspan><tspan
+         x="424.09808"
+         y="684.89539"
+         id="tspan3759-8-4-9-8">[&quot;Low Write&quot; + emonCMS]</tspan><tspan
+         x="424.09808"
+         y="697.39539"
+         id="tspan5110">+ SD Card</tspan></text>
+    <g
+       transform="translate(-12.590584,322.30429)"
+       id="g3848-3-9-1-9">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2-3-2-3-7"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       x="354.56351"
+       y="621.02704"
+       id="text5076"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="354.56351"
+         y="621.02704"
+         id="tspan5078" /></text>
+    <text
+       x="332.85959"
+       y="572.87592"
+       id="text3755-5-5-6-8-9"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="332.85959"
+         y="572.87592"
+         id="tspan3757-9-5-2-1-2">Raspberry Pi</tspan><tspan
+         x="332.85959"
+         y="585.37592"
+         id="tspan3759-8-4-9-8-9">[ ?  + emonCMS]</tspan><tspan
+         x="332.85959"
+         y="597.87592"
+         id="tspan5110-3">+ HDD</tspan></text>
+    <g
+       transform="translate(-233.24266,321.57707)"
+       id="g3848-3-9-1-9-2">
+      <rect
+         width="197.42207"
+         height="60.739689"
+         x="245.24591"
+         y="232.55812"
+         id="rect2985-7-2-3-2-3-7-5"
+         style="opacity:0.87242856;color:#000000;fill:none;stroke:#000000;stroke-width:1.49243629;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <text
+       x="112.2075"
+       y="572.14868"
+       id="text3755-5-5-6-8-9-2"
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><tspan
+         x="112.2075"
+         y="572.14868"
+         id="tspan3757-9-5-2-1-2-6">Raspberry Pi</tspan><tspan
+         x="112.2075"
+         y="584.64868"
+         id="tspan3759-8-4-9-8-9-4">[ ? ]</tspan><tspan
+         x="112.2075"
+         y="597.14868"
+         id="tspan5110-3-5" /></text>
+    <path
+       d="m 153.60531,509.03792 -15.65269,42.32722"
+       id="path4348-2-3"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 217.89102,511.18078 37.91873,40.18436"
+       id="path4348-2-4"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 341.46245,616.18078 45.06159,33.75579"
+       id="path4348-2-0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;marker-end:url(#Arrow1Mend);visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
