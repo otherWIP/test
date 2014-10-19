@@ -1,4 +1,4 @@
 test
 ====
 
-![tree](pic/tree.svg)
+![tree](https://rawgit.com/otherWIP/test/master/pic/tree.svg)
