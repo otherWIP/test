@@ -7,7 +7,7 @@
 ![tree](https://rawgit.com/otherWIP/test/master/pic/tree.svg)
 
 
-<img src="/pic/tree.png" usemap="#treemap" alt="Image Map Test">
+<img src="https://raw.githubusercontent.com/otherWIP/test/master/pic/tree.png" usemap="#treemap" alt="Image Map Test">
 <map id="treemap" name="treemap" >
 <area shape="rect" coords="132,793,328,859" href="https://github.com/emoncms/emoncms/tree/bufferedwrite" alt="The OEM Shop" title="The Shop">
 
