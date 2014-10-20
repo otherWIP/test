@@ -8,6 +8,7 @@
 
 
 <img src="/pic/tree.png" usemap="#treemap" alt="Image Map Test">
-<p><br><a href="/pic/tree.svg">tree.svg</a></p>
 <map id="treemap" name="treemap" >
 <area shape="rect" coords="132,793,328,859" href="https://github.com/emoncms/emoncms/tree/bufferedwrite" alt="The OEM Shop" title="The Shop">
+
+<p><br><a href="/pic/tree.svg">tree.svg</a></p>
